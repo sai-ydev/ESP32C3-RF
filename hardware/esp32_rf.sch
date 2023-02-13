@@ -5043,7 +5043,7 @@ LED</description>
 <sheet>
 <plain>
 <text x="40.64" y="104.14" size="5.08" layer="94" font="vector" ratio="20">Power Supply</text>
-<text x="48.26" y="167.64" size="5.08" layer="94" font="vector" ratio="20">USB</text>
+<text x="55.88" y="160.02" size="5.08" layer="94" font="vector" ratio="20">USB</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="G$1" x="0" y="0" smashed="yes">
